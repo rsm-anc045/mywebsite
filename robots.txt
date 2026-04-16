@@ -1,1 +1,1 @@
-Sitemap: https://rsm-cvuppu.github.io/mywebsite/sitemap.xml
+Sitemap: https://your-website-url.example.com/sitemap.xml
